@@ -34,6 +34,7 @@ public class Practice {
         }
         return max;
     }
+    
     public static String toUpper (String str){
         StringBuilder ketQua = new StringBuilder();
         for(char ch : str.toCharArray()){
