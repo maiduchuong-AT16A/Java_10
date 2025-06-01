@@ -9,53 +9,81 @@ package javacore.basic.lesson06;
  * @author Admin
  */
 public class Practice {
-    public static final double sum(double...x){
-        double s = 0;
-        for(double i : x){
-            s += i;
+
+    public static final double sum(double... x) {
+        double result = 0;
+        for (double i : x) {
+            result += i;
         }
-        return s;
+        return result;
     }
-    public static final double getMin(double...x){
+
+    public static final double getMin(double... x) {
         double min = x[0];
-        for(double i : x){
-            if(i < min){
+        for (double i : x) {
+            if (i < min) {
                 min = i;
             }
         }
         return min;
     }
-    public static final double getMax(double...x){
+
+    public static final double getMax(double... x) {
         double max = x[0];
-        for(double i : x){
-            if(i > max){
+        for (double i : x) {
+            if (i > max) {
                 max = i;
             }
         }
         return max;
     }
-    
-    public static String toUpper (String str){
+
+    public static String toUpper(String str) {
         StringBuilder ketQua = new StringBuilder();
-        for(char ch : str.toCharArray()){
-            if(ch >= 'a' && ch <= 'z'){
-                ketQua.append((char)(ch - 32));
-            }else{
+        for (char ch : str.toCharArray()) {
+            if (ch >= 'a' && ch <= 'z') {
+                ketQua.append((char) (ch - 32));
+            } else {
                 ketQua.append(ch);
             }
         }
         return ketQua.toString();
     }
-    public static String toLower(String str){
+
+    public static String toLower(String str) {
         StringBuilder ketQua = new StringBuilder();
-        for(char ch : str.toCharArray()){
-            if(ch >= 'A' && ch <= 'Z'){
-                ketQua.append((char)(ch + 32));
-            }else{
+        for (char ch : str.toCharArray()) {
+            if (ch >= 'A' && ch <= 'Z') {
+                ketQua.append((char) (ch + 32));
+            } else {
                 ketQua.append(ch);
             }
         }
         return ketQua.toString();
     }
-    
+
+    public static String toUpperFirstChar(String str) {
+        String[] words = str.split(" ");
+        for (int i = 0; i < words.length; i++) {
+            if (!words[i].isEmpty()) {
+                char firstChar = words[i].charAt(0);
+                String upperFirstChar = String.valueOf(firstChar).toUpperCase();
+                words[i] = upperFirstChar + words[i].substring(1).toLowerCase();
+            }
+        }
+        return String.join(" ", words);
+    }
+
+    public static long getFibonacci(int position) {
+       if (position <= 2) {
+            return 1;
+        }
+        long a = 1, b = 1, c = 0;
+        for (int i = 3; i <= position; i++) {
+            c = a + b;
+            a = b;
+            b = c;
+        }
+        return b;
+    }
 }
