@@ -1,0 +1,137 @@
+Case #1:
+Full time employee:
+Name: nZCyMAvfBEf, salary per day: 592
+Full time employee:
+Name: EcMNgmRFheXgvADp, salary per day: 664
+Full time employee:
+Name: vvyvslOmAYa, salary per day: 584
+Full time employee:
+Name: hmZOJXvrHhmdIaZdK, salary per day: 616
+Full time employee:
+Name: aisTbEwtFXBOicap, salary per day: 584
+Full time employee:
+Name: aisTbEwtFXBOicap, salary per day: 584
+Full time employee:
+Name: nZCyMAvfBEf, salary per day: 592
+Full time employee:
+Name: yHjnmnUQaUy, salary per day: 704
+Full time employee:
+Name: wkvNrapTFmlAnNDH, salary per day: 536
+Full time employee:
+Name: hmZOJXvrHhmdIaZdK, salary per day: 616
+Full time employee:
+Name: wkvNrapTFmlAnNDH, salary per day: 536
+Full time employee:
+Name: EcMNgmRFheXgvADp, salary per day: 664
+Part time employee:
+Name: rwvpRjeWtrJeSPYlJ, salary per day: 72
+Part time employee:
+Name: hRsztSFKX DLGFNzd, salary per day: 145
+Part time employee:
+Name: hRsztSFKX DLGFNzd, salary per day: 145
+Part time employee:
+Name: V tfbGWj BvOs ai, salary per day: 125
+Part time employee:
+Name: rwvpRjeWtrJeSPYlJ, salary per day: 72
+Part time employee:
+Name: GHJKpGewCjG, salary per day: 203
+Part time employee:
+Name: RnzffPRiUECu, salary per day: 15
+Part time employee:
+Name: akGq MafDplaciLY, salary per day: 56
+Part time employee:
+Name: RnzffPRiUECu, salary per day: 15
+Part time employee:
+Name: MvlMQnjFnYA, salary per day: 175
+Case #2:
+Full time employee:
+Name: lfAZh kkXi, salary per day: 744
+Full time employee:
+Name: LmLoFfRavNt, salary per day: 792
+Full time employee:
+Name: YZvbUuGnIVvXS, salary per day: 776
+Full time employee:
+Name: LmLoFfRavNt, salary per day: 792
+Full time employee:
+Name: euaMbSHRACTTX Ek, salary per day: 664
+Full time employee:
+Name: YZvbUuGnIVvXS, salary per day: 776
+Full time employee:
+Name: lfAZh kkXi, salary per day: 744
+Full time employee:
+Name: lfAZh kkXi, salary per day: 744
+Part time employee:
+Name: fwMgIDDUWCvULR, salary per day: 28
+Part time employee:
+Name: fwMgIDDUWCvULR, salary per day: 28
+Case #3:
+Full time employee:
+Name: ARGnoQYfdO, salary per day: 552
+Full time employee:
+Name: nLXgCEqUoeJSPMyJh, salary per day: 632
+Full time employee:
+Name: KtizupfmQoiSyplp, salary per day: 616
+Full time employee:
+Name: fSvp iDqcQIHU, salary per day: 544
+Full time employee:
+Name: vILaQEefCULVOjvXV, salary per day: 712
+Full time employee:
+Name: AHonfNRRuqksmiRy, salary per day: 472
+Full time employee:
+Name: vILaQEefCULVOjvXV, salary per day: 712
+Full time employee:
+Name: ARGnoQYfdO, salary per day: 552
+Full time employee:
+Name: nLXgCEqUoeJSPMyJh, salary per day: 632
+Full time employee:
+Name: vILaQEefCULVOjvXV, salary per day: 712
+Full time employee:
+Name: VZQvSbWuKgHhDYE, salary per day: 680
+Full time employee:
+Name: znMtCfEjqyDggdV, salary per day: 768
+Full time employee:
+Name: znMtCfEjqyDggdV, salary per day: 768
+Full time employee:
+Name: VZQvSbWuKgHhDYE, salary per day: 680
+Full time employee:
+Name: vefUfCAEFyraze, salary per day: 424
+Part time employee:
+Name: ljbMqFmgRwTev, salary per day: 19
+Part time employee:
+Name: XBWsQAObqwEXgENkcJh, salary per day: 78
+Part time employee:
+Name: DHQDHRTeKeAl M, salary per day: 21
+Part time employee:
+Name: EXXvyVQZKvmAygUkc, salary per day: 50
+Case #4:
+Full time employee:
+Name: wdJXKktvhe, salary per day: 608
+Part time employee:
+Name: hUHRvdWwTsSUJvMWMMv, salary per day: 91
+Part time employee:
+Name: pIbVViTOllcaJY, salary per day: 40
+Part time employee:
+Name: hUHRvdWwTsSUJvMWMMv, salary per day: 91
+Part time employee:
+Name: IBpRWIbLA, salary per day: 145
+Case #5:
+Full time employee:
+Name: erHMvbAAMw Qlakfs, salary per day: 680
+Full time employee:
+Name: ZgOuzMGsA njl, salary per day: 640
+Full time employee:
+Name: undNKWkcTdQycVquw, salary per day: 424
+Full time employee:
+Name: erHMvbAAMw Qlakfs, salary per day: 680
+Full time employee:
+Name: NaAfLUgtUgdybr, salary per day: 568
+Full time employee:
+Name: erHMvbAAMw Qlakfs, salary per day: 680
+Full time employee:
+Name: ZgOuzMGsA njl, salary per day: 640
+Full time employee:
+Name: cvNzUIlpqUyUQyqns, salary per day: 696
+Full time employee:
+Name: QOklFAVvcXoB, salary per day: 488
+Part time employee:
+Name: ZiGCvqVhXKz, salary per day: 56

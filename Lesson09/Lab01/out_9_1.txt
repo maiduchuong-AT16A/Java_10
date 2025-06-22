@@ -1,0 +1,17 @@
+Case #1:
+Rectangle(56.980000, 56.950000): perimeter = 227.860, area = 3245.011
+Circle(r = 86.500000): perimeter = 543.496, area = 23506.182
+Case #2:
+Rectangle(29.670000, 93.510000): perimeter = 246.360, area = 2774.442
+Rectangle(71.460000, 53.370000): perimeter = 249.660, area = 3813.820
+Circle(r = 73.810000): perimeter = 463.762, area = 17115.133
+Case #3:
+Rectangle(37.160000, 84.820000): perimeter = 243.960, area = 3151.911
+Circle(r = 51.740000): perimeter = 325.092, area = 8410.130
+Case #4:
+Rectangle(32.370000, 51.230000): perimeter = 167.200, area = 1658.315
+Circle(r = 27.890000): perimeter = 175.238, area = 2443.694
+Circle(r = 27.890000): perimeter = 175.238, area = 2443.694
+Case #5:
+Rectangle(26.450000, 70.770000): perimeter = 194.440, area = 1871.866
+Circle(r = 51.370000): perimeter = 322.767, area = 8290.276
