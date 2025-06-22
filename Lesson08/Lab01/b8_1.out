@@ -1,0 +1,594 @@
+Case #1:
+HCN(43.080000, 44.510000): chu vi = 175.180, dien tich = 1917.491
+HCN(76.530000, 17.290000): chu vi = 187.640, dien tich = 1323.204
+HCN(76.530000, 17.290000): chu vi = 187.640, dien tich = 1323.204
+HV(canh = 63.180000): chu vi = 252.720, dien tich = 3991.712
+HV(canh = 58.570000): chu vi = 234.280, dien tich = 3430.445
+HV(canh = 76.100000): chu vi = 304.400, dien tich = 5791.210
+HV(canh = 76.100000): chu vi = 304.400, dien tich = 5791.210
+Case #2:
+HCN(43.150000, 30.690000): chu vi = 147.680, dien tich = 1324.274
+HCN(43.150000, 30.690000): chu vi = 147.680, dien tich = 1324.274
+HCN(56.030000, 13.630000): chu vi = 139.320, dien tich = 763.689
+HCN(43.150000, 30.690000): chu vi = 147.680, dien tich = 1324.274
+HV(canh = 8.070000): chu vi = 32.280, dien tich = 65.125
+HV(canh = 76.740000): chu vi = 306.960, dien tich = 5889.028
+HV(canh = 76.740000): chu vi = 306.960, dien tich = 5889.028
+Case #3:
+HCN(70.200000, 88.640000): chu vi = 317.680, dien tich = 6222.528
+HCN(70.200000, 88.640000): chu vi = 317.680, dien tich = 6222.528
+HV(canh = 95.590000): chu vi = 382.360, dien tich = 9137.448
+Case #4:
+HCN(20.240000, 15.810000): chu vi = 72.100, dien tich = 319.994
+HCN(20.240000, 15.810000): chu vi = 72.100, dien tich = 319.994
+HV(canh = 48.110000): chu vi = 192.440, dien tich = 2314.572
+Case #5:
+HCN(78.040000, 56.210000): chu vi = 268.500, dien tich = 4386.628
+HV(canh = 28.960000): chu vi = 115.840, dien tich = 838.682
+Case #6:
+HCN(13.040000, 71.860000): chu vi = 169.800, dien tich = 937.054
+HCN(25.470000, 64.950000): chu vi = 180.840, dien tich = 1654.277
+HV(canh = 77.260000): chu vi = 309.040, dien tich = 5969.108
+HV(canh = 32.750000): chu vi = 131.000, dien tich = 1072.563
+HV(canh = 77.260000): chu vi = 309.040, dien tich = 5969.108
+HV(canh = 32.750000): chu vi = 131.000, dien tich = 1072.563
+Case #7:
+HCN(34.000000, 60.970000): chu vi = 189.940, dien tich = 2072.980
+HV(canh = 41.600000): chu vi = 166.400, dien tich = 1730.560
+HV(canh = 86.580000): chu vi = 346.320, dien tich = 7496.096
+HV(canh = 41.600000): chu vi = 166.400, dien tich = 1730.560
+Case #8:
+HCN(98.950000, 60.290000): chu vi = 318.480, dien tich = 5965.696
+HV(canh = 29.910000): chu vi = 119.640, dien tich = 894.608
+Case #9:
+HCN(70.450000, 5.620000): chu vi = 152.140, dien tich = 395.929
+HV(canh = 52.490000): chu vi = 209.960, dien tich = 2755.200
+Case #10:
+HCN(98.340000, 10.340000): chu vi = 217.360, dien tich = 1016.836
+HCN(68.710000, 29.820000): chu vi = 197.060, dien tich = 2048.932
+HCN(68.710000, 29.820000): chu vi = 197.060, dien tich = 2048.932
+HV(canh = 90.130000): chu vi = 360.520, dien tich = 8123.417
+HV(canh = 90.130000): chu vi = 360.520, dien tich = 8123.417
+HV(canh = 24.180000): chu vi = 96.720, dien tich = 584.672
+Case #11:
+HCN(55.810000, 21.060000): chu vi = 153.740, dien tich = 1175.359
+HCN(55.810000, 21.060000): chu vi = 153.740, dien tich = 1175.359
+HCN(64.800000, 53.840000): chu vi = 237.280, dien tich = 3488.832
+HV(canh = 68.840000): chu vi = 275.360, dien tich = 4738.946
+HV(canh = 66.140000): chu vi = 264.560, dien tich = 4374.500
+HV(canh = 66.140000): chu vi = 264.560, dien tich = 4374.500
+HV(canh = 68.840000): chu vi = 275.360, dien tich = 4738.946
+Case #12:
+HCN(55.990000, 12.630000): chu vi = 137.240, dien tich = 707.154
+HCN(55.990000, 12.630000): chu vi = 137.240, dien tich = 707.154
+HCN(55.990000, 12.630000): chu vi = 137.240, dien tich = 707.154
+HV(canh = 30.180000): chu vi = 120.720, dien tich = 910.832
+HV(canh = 67.590000): chu vi = 270.360, dien tich = 4568.408
+HV(canh = 77.140000): chu vi = 308.560, dien tich = 5950.580
+HV(canh = 67.590000): chu vi = 270.360, dien tich = 4568.408
+Case #13:
+HCN(16.970000, 19.920000): chu vi = 73.780, dien tich = 338.042
+HCN(6.960000, 94.510000): chu vi = 202.940, dien tich = 657.790
+HV(canh = 43.810000): chu vi = 175.240, dien tich = 1919.316
+HV(canh = 54.330000): chu vi = 217.320, dien tich = 2951.749
+HV(canh = 76.520000): chu vi = 306.080, dien tich = 5855.310
+HV(canh = 54.330000): chu vi = 217.320, dien tich = 2951.749
+Case #14:
+HCN(35.730000, 73.150000): chu vi = 217.760, dien tich = 2613.650
+HCN(31.990000, 42.720000): chu vi = 149.420, dien tich = 1366.613
+HCN(92.960000, 11.230000): chu vi = 208.380, dien tich = 1043.941
+HCN(31.990000, 42.720000): chu vi = 149.420, dien tich = 1366.613
+HV(canh = 57.520000): chu vi = 230.080, dien tich = 3308.550
+Case #15:
+HCN(69.610000, 14.580000): chu vi = 168.380, dien tich = 1014.914
+HV(canh = 18.780000): chu vi = 75.120, dien tich = 352.688
+Case #16:
+HCN(37.610000, 3.160000): chu vi = 81.540, dien tich = 118.848
+HCN(53.170000, 61.990000): chu vi = 230.320, dien tich = 3296.008
+HCN(80.980000, 24.550000): chu vi = 211.060, dien tich = 1988.059
+HCN(37.610000, 3.160000): chu vi = 81.540, dien tich = 118.848
+HV(canh = 11.330000): chu vi = 45.320, dien tich = 128.369
+HV(canh = 50.520000): chu vi = 202.080, dien tich = 2552.270
+HV(canh = 11.330000): chu vi = 45.320, dien tich = 128.369
+HV(canh = 50.520000): chu vi = 202.080, dien tich = 2552.270
+Case #17:
+HCN(80.910000, 96.860000): chu vi = 355.540, dien tich = 7836.943
+HV(canh = 24.240000): chu vi = 96.960, dien tich = 587.578
+HV(canh = 24.240000): chu vi = 96.960, dien tich = 587.578
+HV(canh = 59.480000): chu vi = 237.920, dien tich = 3537.870
+Case #18:
+HCN(99.570000, 64.210000): chu vi = 327.560, dien tich = 6393.390
+HCN(79.170000, 5.460000): chu vi = 169.260, dien tich = 432.268
+HCN(40.100000, 84.610000): chu vi = 249.420, dien tich = 3392.861
+HCN(99.570000, 64.210000): chu vi = 327.560, dien tich = 6393.390
+HV(canh = 20.640000): chu vi = 82.560, dien tich = 426.010
+HV(canh = 19.770000): chu vi = 79.080, dien tich = 390.853
+Case #19:
+HCN(61.880000, 84.950000): chu vi = 293.660, dien tich = 5256.706
+HCN(94.190000, 23.100000): chu vi = 234.580, dien tich = 2175.789
+HCN(61.880000, 84.950000): chu vi = 293.660, dien tich = 5256.706
+HV(canh = 6.320000): chu vi = 25.280, dien tich = 39.942
+HV(canh = 56.790000): chu vi = 227.160, dien tich = 3225.104
+HV(canh = 6.320000): chu vi = 25.280, dien tich = 39.942
+Case #20:
+HCN(28.290000, 13.460000): chu vi = 83.500, dien tich = 380.783
+HCN(19.340000, 83.640000): chu vi = 205.960, dien tich = 1617.598
+HCN(28.290000, 13.460000): chu vi = 83.500, dien tich = 380.783
+HCN(28.290000, 13.460000): chu vi = 83.500, dien tich = 380.783
+HV(canh = 40.100000): chu vi = 160.400, dien tich = 1608.010
+HV(canh = 34.080000): chu vi = 136.320, dien tich = 1161.446
+HV(canh = 34.080000): chu vi = 136.320, dien tich = 1161.446
+HV(canh = 40.100000): chu vi = 160.400, dien tich = 1608.010
+Case #21:
+HCN(29.720000, 95.260000): chu vi = 249.960, dien tich = 2831.127
+HV(canh = 47.890000): chu vi = 191.560, dien tich = 2293.452
+Case #22:
+HCN(80.730000, 17.880000): chu vi = 197.220, dien tich = 1443.452
+HCN(80.730000, 17.880000): chu vi = 197.220, dien tich = 1443.452
+HCN(80.730000, 17.880000): chu vi = 197.220, dien tich = 1443.452
+HV(canh = 92.380000): chu vi = 369.520, dien tich = 8534.064
+HV(canh = 43.050000): chu vi = 172.200, dien tich = 1853.302
+HV(canh = 92.380000): chu vi = 369.520, dien tich = 8534.064
+Case #23:
+HCN(23.930000, 6.030000): chu vi = 59.920, dien tich = 144.298
+HCN(95.540000, 62.230000): chu vi = 315.540, dien tich = 5945.454
+HCN(23.930000, 6.030000): chu vi = 59.920, dien tich = 144.298
+HCN(93.240000, 63.280000): chu vi = 313.040, dien tich = 5900.227
+HV(canh = 31.590000): chu vi = 126.360, dien tich = 997.928
+HV(canh = 31.590000): chu vi = 126.360, dien tich = 997.928
+Case #24:
+HCN(79.350000, 15.210000): chu vi = 189.120, dien tich = 1206.913
+HCN(79.350000, 15.210000): chu vi = 189.120, dien tich = 1206.913
+HCN(79.350000, 15.210000): chu vi = 189.120, dien tich = 1206.913
+HV(canh = 19.870000): chu vi = 79.480, dien tich = 394.817
+HV(canh = 19.870000): chu vi = 79.480, dien tich = 394.817
+Case #25:
+HCN(8.610000, 80.990000): chu vi = 179.200, dien tich = 697.324
+HCN(69.980000, 30.500000): chu vi = 200.960, dien tich = 2134.390
+HV(canh = 32.060000): chu vi = 128.240, dien tich = 1027.844
+HV(canh = 29.600000): chu vi = 118.400, dien tich = 876.160
+HV(canh = 81.620000): chu vi = 326.480, dien tich = 6661.824
+HV(canh = 94.510000): chu vi = 378.040, dien tich = 8932.140
+Case #26:
+HCN(38.970000, 3.210000): chu vi = 84.360, dien tich = 125.094
+HCN(64.780000, 85.020000): chu vi = 299.600, dien tich = 5507.596
+HCN(16.400000, 88.350000): chu vi = 209.500, dien tich = 1448.940
+HV(canh = 58.690000): chu vi = 234.760, dien tich = 3444.516
+HV(canh = 34.100000): chu vi = 136.400, dien tich = 1162.810
+Case #27:
+HCN(64.430000, 88.450000): chu vi = 305.760, dien tich = 5698.834
+HCN(19.300000, 61.230000): chu vi = 161.060, dien tich = 1181.739
+HCN(19.300000, 61.230000): chu vi = 161.060, dien tich = 1181.739
+HCN(19.300000, 61.230000): chu vi = 161.060, dien tich = 1181.739
+HV(canh = 79.920000): chu vi = 319.680, dien tich = 6387.206
+HV(canh = 13.040000): chu vi = 52.160, dien tich = 170.042
+HV(canh = 13.040000): chu vi = 52.160, dien tich = 170.042
+Case #28:
+HCN(27.810000, 29.510000): chu vi = 114.640, dien tich = 820.673
+HCN(27.810000, 29.510000): chu vi = 114.640, dien tich = 820.673
+HCN(64.810000, 99.690000): chu vi = 329.000, dien tich = 6460.909
+HCN(25.280000, 55.090000): chu vi = 160.740, dien tich = 1392.675
+HV(canh = 46.880000): chu vi = 187.520, dien tich = 2197.734
+HV(canh = 56.510000): chu vi = 226.040, dien tich = 3193.380
+Case #29:
+HCN(96.130000, 74.440000): chu vi = 341.140, dien tich = 7155.917
+HCN(95.820000, 95.290000): chu vi = 382.220, dien tich = 9130.688
+HCN(95.820000, 95.290000): chu vi = 382.220, dien tich = 9130.688
+HV(canh = 64.290000): chu vi = 257.160, dien tich = 4133.204
+HV(canh = 75.670000): chu vi = 302.680, dien tich = 5725.949
+HV(canh = 64.290000): chu vi = 257.160, dien tich = 4133.204
+Case #30:
+HCN(76.690000, 73.880000): chu vi = 301.140, dien tich = 5665.857
+HV(canh = 72.050000): chu vi = 288.200, dien tich = 5191.202
+HV(canh = 42.260000): chu vi = 169.040, dien tich = 1785.908
+Case #31:
+HCN(61.580000, 71.940000): chu vi = 267.040, dien tich = 4430.065
+HCN(61.580000, 71.940000): chu vi = 267.040, dien tich = 4430.065
+HCN(22.500000, 44.170000): chu vi = 133.340, dien tich = 993.825
+HV(canh = 15.600000): chu vi = 62.400, dien tich = 243.360
+HV(canh = 75.800000): chu vi = 303.200, dien tich = 5745.640
+Case #32:
+HCN(60.210000, 47.310000): chu vi = 215.040, dien tich = 2848.535
+HCN(54.350000, 61.510000): chu vi = 231.720, dien tich = 3343.069
+HCN(60.210000, 47.310000): chu vi = 215.040, dien tich = 2848.535
+HV(canh = 75.570000): chu vi = 302.280, dien tich = 5710.825
+Case #33:
+HCN(79.960000, 66.420000): chu vi = 292.760, dien tich = 5310.943
+HV(canh = 89.410000): chu vi = 357.640, dien tich = 7994.148
+Case #34:
+HCN(80.490000, 91.610000): chu vi = 344.200, dien tich = 7373.689
+HV(canh = 94.480000): chu vi = 377.920, dien tich = 8926.470
+Case #35:
+HCN(71.440000, 32.920000): chu vi = 208.720, dien tich = 2351.805
+HV(canh = 5.970000): chu vi = 23.880, dien tich = 35.641
+HV(canh = 11.570000): chu vi = 46.280, dien tich = 133.865
+HV(canh = 5.970000): chu vi = 23.880, dien tich = 35.641
+Case #36:
+HCN(45.550000, 99.840000): chu vi = 290.780, dien tich = 4547.712
+HCN(26.770000, 72.320000): chu vi = 198.180, dien tich = 1936.006
+HCN(26.770000, 72.320000): chu vi = 198.180, dien tich = 1936.006
+HCN(45.550000, 99.840000): chu vi = 290.780, dien tich = 4547.712
+HV(canh = 96.580000): chu vi = 386.320, dien tich = 9327.696
+Case #37:
+HCN(94.060000, 5.210000): chu vi = 198.540, dien tich = 490.053
+HCN(86.420000, 6.290000): chu vi = 185.420, dien tich = 543.582
+HV(canh = 3.610000): chu vi = 14.440, dien tich = 13.032
+HV(canh = 98.130000): chu vi = 392.520, dien tich = 9629.497
+Case #38:
+HCN(86.250000, 83.840000): chu vi = 340.180, dien tich = 7231.200
+HCN(65.770000, 3.530000): chu vi = 138.600, dien tich = 232.168
+HCN(65.770000, 3.530000): chu vi = 138.600, dien tich = 232.168
+HV(canh = 33.890000): chu vi = 135.560, dien tich = 1148.532
+HV(canh = 2.370000): chu vi = 9.480, dien tich = 5.617
+HV(canh = 33.890000): chu vi = 135.560, dien tich = 1148.532
+HV(canh = 38.970000): chu vi = 155.880, dien tich = 1518.661
+Case #39:
+HCN(78.160000, 64.810000): chu vi = 285.940, dien tich = 5065.550
+HCN(51.500000, 77.450000): chu vi = 257.900, dien tich = 3988.675
+HCN(98.410000, 85.260000): chu vi = 367.340, dien tich = 8390.437
+HCN(98.410000, 85.260000): chu vi = 367.340, dien tich = 8390.437
+HV(canh = 83.840000): chu vi = 335.360, dien tich = 7029.146
+HV(canh = 39.520000): chu vi = 158.080, dien tich = 1561.830
+HV(canh = 39.520000): chu vi = 158.080, dien tich = 1561.830
+Case #40:
+HCN(73.690000, 94.850000): chu vi = 337.080, dien tich = 6989.496
+HCN(10.140000, 19.670000): chu vi = 59.620, dien tich = 199.454
+HV(canh = 67.150000): chu vi = 268.600, dien tich = 4509.123
+HV(canh = 67.150000): chu vi = 268.600, dien tich = 4509.123
+HV(canh = 90.000000): chu vi = 360.000, dien tich = 8100.000
+Case #41:
+HCN(19.780000, 35.490000): chu vi = 110.540, dien tich = 701.992
+HCN(24.910000, 26.140000): chu vi = 102.100, dien tich = 651.147
+HCN(19.780000, 35.490000): chu vi = 110.540, dien tich = 701.992
+HCN(24.910000, 26.140000): chu vi = 102.100, dien tich = 651.147
+HV(canh = 17.070000): chu vi = 68.280, dien tich = 291.385
+HV(canh = 17.070000): chu vi = 68.280, dien tich = 291.385
+HV(canh = 45.370000): chu vi = 181.480, dien tich = 2058.437
+HV(canh = 45.370000): chu vi = 181.480, dien tich = 2058.437
+Case #42:
+HCN(33.440000, 53.630000): chu vi = 174.140, dien tich = 1793.387
+HCN(75.080000, 78.250000): chu vi = 306.660, dien tich = 5875.010
+HCN(33.440000, 53.630000): chu vi = 174.140, dien tich = 1793.387
+HCN(67.120000, 63.690000): chu vi = 261.620, dien tich = 4274.873
+HV(canh = 95.120000): chu vi = 380.480, dien tich = 9047.814
+Case #43:
+HCN(29.590000, 59.080000): chu vi = 177.340, dien tich = 1748.177
+HCN(29.040000, 43.670000): chu vi = 145.420, dien tich = 1268.177
+HV(canh = 72.080000): chu vi = 288.320, dien tich = 5195.526
+HV(canh = 67.080000): chu vi = 268.320, dien tich = 4499.726
+HV(canh = 67.080000): chu vi = 268.320, dien tich = 4499.726
+Case #44:
+HCN(32.760000, 98.980000): chu vi = 263.480, dien tich = 3242.585
+HV(canh = 42.510000): chu vi = 170.040, dien tich = 1807.100
+Case #45:
+HCN(90.020000, 33.030000): chu vi = 246.100, dien tich = 2973.361
+HCN(64.520000, 81.660000): chu vi = 292.360, dien tich = 5268.703
+HCN(90.020000, 33.030000): chu vi = 246.100, dien tich = 2973.361
+HCN(64.520000, 81.660000): chu vi = 292.360, dien tich = 5268.703
+HV(canh = 20.090000): chu vi = 80.360, dien tich = 403.608
+HV(canh = 20.090000): chu vi = 80.360, dien tich = 403.608
+Case #46:
+HCN(62.260000, 21.990000): chu vi = 168.500, dien tich = 1369.097
+HCN(7.610000, 35.520000): chu vi = 86.260, dien tich = 270.307
+HCN(62.260000, 21.990000): chu vi = 168.500, dien tich = 1369.097
+HV(canh = 4.200000): chu vi = 16.800, dien tich = 17.640
+Case #47:
+HCN(23.280000, 83.710000): chu vi = 213.980, dien tich = 1948.769
+HCN(84.840000, 92.990000): chu vi = 355.660, dien tich = 7889.272
+HV(canh = 27.280000): chu vi = 109.120, dien tich = 744.198
+Case #48:
+HCN(39.790000, 95.690000): chu vi = 270.960, dien tich = 3807.505
+HV(canh = 58.280000): chu vi = 233.120, dien tich = 3396.558
+HV(canh = 58.280000): chu vi = 233.120, dien tich = 3396.558
+Case #49:
+HCN(98.310000, 64.450000): chu vi = 325.520, dien tich = 6336.080
+HCN(16.000000, 41.900000): chu vi = 115.800, dien tich = 670.400
+HCN(99.490000, 39.450000): chu vi = 277.880, dien tich = 3924.881
+HCN(16.000000, 41.900000): chu vi = 115.800, dien tich = 670.400
+HV(canh = 8.530000): chu vi = 34.120, dien tich = 72.761
+HV(canh = 8.530000): chu vi = 34.120, dien tich = 72.761
+Case #50:
+HCN(97.320000, 26.680000): chu vi = 248.000, dien tich = 2596.498
+HCN(82.720000, 13.140000): chu vi = 191.720, dien tich = 1086.941
+HCN(96.150000, 20.530000): chu vi = 233.360, dien tich = 1973.960
+HCN(97.320000, 26.680000): chu vi = 248.000, dien tich = 2596.498
+HV(canh = 26.880000): chu vi = 107.520, dien tich = 722.534
+HV(canh = 49.480000): chu vi = 197.920, dien tich = 2448.270
+HV(canh = 55.770000): chu vi = 223.080, dien tich = 3110.293
+HV(canh = 49.480000): chu vi = 197.920, dien tich = 2448.270
+Case #51:
+HCN(11.560000, 47.280000): chu vi = 117.680, dien tich = 546.557
+HCN(11.560000, 47.280000): chu vi = 117.680, dien tich = 546.557
+HCN(18.140000, 38.470000): chu vi = 113.220, dien tich = 697.846
+HV(canh = 41.600000): chu vi = 166.400, dien tich = 1730.560
+HV(canh = 42.500000): chu vi = 170.000, dien tich = 1806.250
+Case #52:
+HCN(93.230000, 39.470000): chu vi = 265.400, dien tich = 3679.788
+HV(canh = 52.170000): chu vi = 208.680, dien tich = 2721.709
+HV(canh = 88.790000): chu vi = 355.160, dien tich = 7883.664
+HV(canh = 88.790000): chu vi = 355.160, dien tich = 7883.664
+HV(canh = 52.170000): chu vi = 208.680, dien tich = 2721.709
+Case #53:
+HCN(3.000000, 33.980000): chu vi = 73.960, dien tich = 101.940
+HCN(82.330000, 22.620000): chu vi = 209.900, dien tich = 1862.305
+HV(canh = 75.590000): chu vi = 302.360, dien tich = 5713.848
+HV(canh = 75.590000): chu vi = 302.360, dien tich = 5713.848
+Case #54:
+HCN(97.520000, 13.380000): chu vi = 221.800, dien tich = 1304.818
+HV(canh = 89.340000): chu vi = 357.360, dien tich = 7981.636
+HV(canh = 28.550000): chu vi = 114.200, dien tich = 815.103
+HV(canh = 89.340000): chu vi = 357.360, dien tich = 7981.636
+Case #55:
+HCN(82.320000, 30.990000): chu vi = 226.620, dien tich = 2551.097
+HCN(82.320000, 30.990000): chu vi = 226.620, dien tich = 2551.097
+HCN(8.200000, 75.710000): chu vi = 167.820, dien tich = 620.822
+HCN(82.320000, 30.990000): chu vi = 226.620, dien tich = 2551.097
+HV(canh = 9.110000): chu vi = 36.440, dien tich = 82.992
+HV(canh = 9.110000): chu vi = 36.440, dien tich = 82.992
+HV(canh = 9.110000): chu vi = 36.440, dien tich = 82.992
+Case #56:
+HCN(3.130000, 58.250000): chu vi = 122.760, dien tich = 182.323
+HCN(70.590000, 82.770000): chu vi = 306.720, dien tich = 5842.734
+HCN(70.590000, 82.770000): chu vi = 306.720, dien tich = 5842.734
+HCN(70.590000, 82.770000): chu vi = 306.720, dien tich = 5842.734
+HV(canh = 48.870000): chu vi = 195.480, dien tich = 2388.277
+HV(canh = 83.740000): chu vi = 334.960, dien tich = 7012.388
+HV(canh = 97.390000): chu vi = 389.560, dien tich = 9484.812
+Case #57:
+HCN(90.730000, 6.680000): chu vi = 194.820, dien tich = 606.076
+HV(canh = 99.580000): chu vi = 398.320, dien tich = 9916.176
+HV(canh = 23.800000): chu vi = 95.200, dien tich = 566.440
+Case #58:
+HCN(82.860000, 31.840000): chu vi = 229.400, dien tich = 2638.262
+HCN(82.860000, 31.840000): chu vi = 229.400, dien tich = 2638.262
+HV(canh = 66.640000): chu vi = 266.560, dien tich = 4440.890
+HV(canh = 50.110000): chu vi = 200.440, dien tich = 2511.012
+HV(canh = 66.640000): chu vi = 266.560, dien tich = 4440.890
+Case #59:
+HCN(63.150000, 32.000000): chu vi = 190.300, dien tich = 2020.800
+HV(canh = 43.450000): chu vi = 173.800, dien tich = 1887.903
+Case #60:
+HCN(94.860000, 73.100000): chu vi = 335.920, dien tich = 6934.266
+HCN(15.860000, 74.140000): chu vi = 180.000, dien tich = 1175.860
+HV(canh = 11.390000): chu vi = 45.560, dien tich = 129.732
+Case #61:
+HCN(93.160000, 17.900000): chu vi = 222.120, dien tich = 1667.564
+HCN(87.170000, 72.690000): chu vi = 319.720, dien tich = 6336.387
+HCN(93.160000, 17.900000): chu vi = 222.120, dien tich = 1667.564
+HV(canh = 22.040000): chu vi = 88.160, dien tich = 485.762
+HV(canh = 22.040000): chu vi = 88.160, dien tich = 485.762
+HV(canh = 6.840000): chu vi = 27.360, dien tich = 46.786
+HV(canh = 79.020000): chu vi = 316.080, dien tich = 6244.160
+Case #62:
+HCN(62.880000, 10.880000): chu vi = 147.520, dien tich = 684.134
+HCN(68.510000, 70.050000): chu vi = 277.120, dien tich = 4799.126
+HCN(62.880000, 10.880000): chu vi = 147.520, dien tich = 684.134
+HV(canh = 70.750000): chu vi = 283.000, dien tich = 5005.563
+HV(canh = 70.750000): chu vi = 283.000, dien tich = 5005.563
+Case #63:
+HCN(26.270000, 42.260000): chu vi = 137.060, dien tich = 1110.170
+HCN(26.270000, 42.260000): chu vi = 137.060, dien tich = 1110.170
+HV(canh = 23.590000): chu vi = 94.360, dien tich = 556.488
+HV(canh = 45.580000): chu vi = 182.320, dien tich = 2077.536
+HV(canh = 45.580000): chu vi = 182.320, dien tich = 2077.536
+HV(canh = 24.750000): chu vi = 99.000, dien tich = 612.563
+Case #64:
+HCN(66.860000, 4.010000): chu vi = 141.740, dien tich = 268.109
+HCN(82.510000, 2.690000): chu vi = 170.400, dien tich = 221.952
+HCN(66.860000, 4.010000): chu vi = 141.740, dien tich = 268.109
+HCN(82.510000, 2.690000): chu vi = 170.400, dien tich = 221.952
+HV(canh = 92.920000): chu vi = 371.680, dien tich = 8634.126
+Case #65:
+HCN(36.490000, 94.320000): chu vi = 261.620, dien tich = 3441.737
+HCN(29.650000, 94.890000): chu vi = 249.080, dien tich = 2813.489
+HCN(36.490000, 94.320000): chu vi = 261.620, dien tich = 3441.737
+HV(canh = 30.760000): chu vi = 123.040, dien tich = 946.178
+Case #66:
+HCN(54.250000, 36.930000): chu vi = 182.360, dien tich = 2003.452
+HCN(54.250000, 36.930000): chu vi = 182.360, dien tich = 2003.452
+HCN(13.240000, 20.150000): chu vi = 66.780, dien tich = 266.786
+HV(canh = 47.580000): chu vi = 190.320, dien tich = 2263.856
+HV(canh = 47.580000): chu vi = 190.320, dien tich = 2263.856
+Case #67:
+HCN(97.670000, 43.550000): chu vi = 282.440, dien tich = 4253.528
+HCN(50.780000, 84.400000): chu vi = 270.360, dien tich = 4285.832
+HCN(97.670000, 43.550000): chu vi = 282.440, dien tich = 4253.528
+HV(canh = 19.130000): chu vi = 76.520, dien tich = 365.957
+HV(canh = 19.130000): chu vi = 76.520, dien tich = 365.957
+HV(canh = 70.810000): chu vi = 283.240, dien tich = 5014.056
+HV(canh = 18.720000): chu vi = 74.880, dien tich = 350.438
+Case #68:
+HCN(81.830000, 66.600000): chu vi = 296.860, dien tich = 5449.878
+HCN(18.690000, 70.040000): chu vi = 177.460, dien tich = 1309.048
+HCN(81.830000, 66.600000): chu vi = 296.860, dien tich = 5449.878
+HV(canh = 59.970000): chu vi = 239.880, dien tich = 3596.401
+HV(canh = 90.570000): chu vi = 362.280, dien tich = 8202.925
+HV(canh = 90.570000): chu vi = 362.280, dien tich = 8202.925
+Case #69:
+HCN(60.860000, 27.030000): chu vi = 175.780, dien tich = 1645.046
+HCN(31.170000, 39.380000): chu vi = 141.100, dien tich = 1227.475
+HCN(70.220000, 63.170000): chu vi = 266.780, dien tich = 4435.797
+HCN(56.250000, 54.310000): chu vi = 221.120, dien tich = 3054.938
+HV(canh = 19.330000): chu vi = 77.320, dien tich = 373.649
+HV(canh = 99.900000): chu vi = 399.600, dien tich = 9980.010
+HV(canh = 47.780000): chu vi = 191.120, dien tich = 2282.928
+HV(canh = 1.230000): chu vi = 4.920, dien tich = 1.513
+Case #70:
+HCN(33.730000, 16.940000): chu vi = 101.340, dien tich = 571.386
+HCN(33.730000, 16.940000): chu vi = 101.340, dien tich = 571.386
+HV(canh = 49.320000): chu vi = 197.280, dien tich = 2432.462
+HV(canh = 49.320000): chu vi = 197.280, dien tich = 2432.462
+HV(canh = 86.800000): chu vi = 347.200, dien tich = 7534.240
+Case #71:
+HCN(72.730000, 49.290000): chu vi = 244.040, dien tich = 3584.862
+HV(canh = 58.880000): chu vi = 235.520, dien tich = 3466.854
+HV(canh = 58.880000): chu vi = 235.520, dien tich = 3466.854
+Case #72:
+HCN(46.120000, 1.570000): chu vi = 95.380, dien tich = 72.408
+HCN(46.120000, 1.570000): chu vi = 95.380, dien tich = 72.408
+HV(canh = 80.760000): chu vi = 323.040, dien tich = 6522.178
+HV(canh = 46.660000): chu vi = 186.640, dien tich = 2177.156
+HV(canh = 80.760000): chu vi = 323.040, dien tich = 6522.178
+Case #73:
+HCN(41.470000, 31.410000): chu vi = 145.760, dien tich = 1302.573
+HCN(89.150000, 78.560000): chu vi = 335.420, dien tich = 7003.624
+HCN(41.470000, 31.410000): chu vi = 145.760, dien tich = 1302.573
+HCN(89.150000, 78.560000): chu vi = 335.420, dien tich = 7003.624
+HV(canh = 42.130000): chu vi = 168.520, dien tich = 1774.937
+HV(canh = 94.850000): chu vi = 379.400, dien tich = 8996.523
+HV(canh = 60.000000): chu vi = 240.000, dien tich = 3600.000
+HV(canh = 1.100000): chu vi = 4.400, dien tich = 1.210
+Case #74:
+HCN(98.760000, 90.140000): chu vi = 377.800, dien tich = 8902.226
+HCN(22.910000, 29.180000): chu vi = 104.180, dien tich = 668.514
+HV(canh = 93.060000): chu vi = 372.240, dien tich = 8660.164
+HV(canh = 30.690000): chu vi = 122.760, dien tich = 941.876
+Case #75:
+HCN(62.850000, 66.890000): chu vi = 259.480, dien tich = 4204.037
+HCN(62.850000, 66.890000): chu vi = 259.480, dien tich = 4204.037
+HCN(62.850000, 66.890000): chu vi = 259.480, dien tich = 4204.037
+HCN(62.850000, 66.890000): chu vi = 259.480, dien tich = 4204.037
+HV(canh = 54.290000): chu vi = 217.160, dien tich = 2947.404
+HV(canh = 54.290000): chu vi = 217.160, dien tich = 2947.404
+Case #76:
+HCN(72.250000, 43.460000): chu vi = 231.420, dien tich = 3139.985
+HCN(86.780000, 23.940000): chu vi = 221.440, dien tich = 2077.513
+HCN(69.830000, 85.510000): chu vi = 310.680, dien tich = 5971.163
+HCN(72.250000, 43.460000): chu vi = 231.420, dien tich = 3139.985
+HV(canh = 61.250000): chu vi = 245.000, dien tich = 3751.563
+Case #77:
+HCN(54.070000, 45.470000): chu vi = 199.080, dien tich = 2458.563
+HV(canh = 45.840000): chu vi = 183.360, dien tich = 2101.306
+HV(canh = 45.840000): chu vi = 183.360, dien tich = 2101.306
+HV(canh = 81.020000): chu vi = 324.080, dien tich = 6564.240
+HV(canh = 45.840000): chu vi = 183.360, dien tich = 2101.306
+Case #78:
+HCN(18.790000, 21.480000): chu vi = 80.540, dien tich = 403.609
+HV(canh = 90.370000): chu vi = 361.480, dien tich = 8166.737
+HV(canh = 67.230000): chu vi = 268.920, dien tich = 4519.873
+Case #79:
+HCN(53.420000, 91.370000): chu vi = 289.580, dien tich = 4880.985
+HV(canh = 52.020000): chu vi = 208.080, dien tich = 2706.080
+Case #80:
+HCN(76.950000, 54.310000): chu vi = 262.520, dien tich = 4179.155
+HV(canh = 71.120000): chu vi = 284.480, dien tich = 5058.054
+Case #81:
+HCN(8.530000, 22.700000): chu vi = 62.460, dien tich = 193.631
+HCN(8.530000, 22.700000): chu vi = 62.460, dien tich = 193.631
+HCN(82.440000, 33.640000): chu vi = 232.160, dien tich = 2773.282
+HV(canh = 64.390000): chu vi = 257.560, dien tich = 4146.072
+HV(canh = 64.390000): chu vi = 257.560, dien tich = 4146.072
+HV(canh = 56.780000): chu vi = 227.120, dien tich = 3223.968
+HV(canh = 32.130000): chu vi = 128.520, dien tich = 1032.337
+Case #82:
+HCN(18.200000, 76.070000): chu vi = 188.540, dien tich = 1384.474
+HCN(18.200000, 76.070000): chu vi = 188.540, dien tich = 1384.474
+HV(canh = 47.150000): chu vi = 188.600, dien tich = 2223.123
+HV(canh = 30.470000): chu vi = 121.880, dien tich = 928.421
+Case #83:
+HCN(51.450000, 9.160000): chu vi = 121.220, dien tich = 471.282
+HCN(51.450000, 9.160000): chu vi = 121.220, dien tich = 471.282
+HCN(51.450000, 9.160000): chu vi = 121.220, dien tich = 471.282
+HCN(53.450000, 27.910000): chu vi = 162.720, dien tich = 1491.790
+HV(canh = 87.140000): chu vi = 348.560, dien tich = 7593.380
+Case #84:
+HCN(35.340000, 5.470000): chu vi = 81.620, dien tich = 193.310
+HCN(11.720000, 88.890000): chu vi = 201.220, dien tich = 1041.791
+HV(canh = 4.600000): chu vi = 18.400, dien tich = 21.160
+Case #85:
+HCN(48.100000, 42.190000): chu vi = 180.580, dien tich = 2029.339
+HCN(49.850000, 99.500000): chu vi = 298.700, dien tich = 4960.075
+HCN(48.100000, 42.190000): chu vi = 180.580, dien tich = 2029.339
+HCN(26.980000, 31.160000): chu vi = 116.280, dien tich = 840.697
+HV(canh = 26.460000): chu vi = 105.840, dien tich = 700.132
+Case #86:
+HCN(92.240000, 96.650000): chu vi = 377.780, dien tich = 8914.996
+HV(canh = 46.730000): chu vi = 186.920, dien tich = 2183.693
+Case #87:
+HCN(57.460000, 62.370000): chu vi = 239.660, dien tich = 3583.780
+HV(canh = 10.030000): chu vi = 40.120, dien tich = 100.601
+HV(canh = 10.030000): chu vi = 40.120, dien tich = 100.601
+HV(canh = 48.170000): chu vi = 192.680, dien tich = 2320.349
+Case #88:
+HCN(48.590000, 76.850000): chu vi = 250.880, dien tich = 3734.142
+HCN(93.410000, 78.440000): chu vi = 343.700, dien tich = 7327.080
+HCN(13.750000, 21.800000): chu vi = 71.100, dien tich = 299.750
+HCN(93.410000, 78.440000): chu vi = 343.700, dien tich = 7327.080
+HV(canh = 20.430000): chu vi = 81.720, dien tich = 417.385
+HV(canh = 20.430000): chu vi = 81.720, dien tich = 417.385
+Case #89:
+HCN(5.660000, 89.210000): chu vi = 189.740, dien tich = 504.929
+HV(canh = 24.780000): chu vi = 99.120, dien tich = 614.048
+HV(canh = 24.780000): chu vi = 99.120, dien tich = 614.048
+HV(canh = 93.240000): chu vi = 372.960, dien tich = 8693.698
+HV(canh = 24.780000): chu vi = 99.120, dien tich = 614.048
+Case #90:
+HCN(6.130000, 5.850000): chu vi = 23.960, dien tich = 35.860
+HCN(6.130000, 5.850000): chu vi = 23.960, dien tich = 35.860
+HCN(6.130000, 5.850000): chu vi = 23.960, dien tich = 35.860
+HV(canh = 73.680000): chu vi = 294.720, dien tich = 5428.742
+HV(canh = 50.160000): chu vi = 200.640, dien tich = 2516.026
+HV(canh = 79.590000): chu vi = 318.360, dien tich = 6334.568
+HV(canh = 52.500000): chu vi = 210.000, dien tich = 2756.250
+Case #91:
+HCN(98.310000, 54.830000): chu vi = 306.280, dien tich = 5390.337
+HCN(98.310000, 54.830000): chu vi = 306.280, dien tich = 5390.337
+HCN(98.310000, 54.830000): chu vi = 306.280, dien tich = 5390.337
+HCN(98.310000, 54.830000): chu vi = 306.280, dien tich = 5390.337
+HV(canh = 85.440000): chu vi = 341.760, dien tich = 7299.994
+HV(canh = 51.900000): chu vi = 207.600, dien tich = 2693.610
+HV(canh = 54.060000): chu vi = 216.240, dien tich = 2922.484
+Case #92:
+HCN(48.980000, 71.730000): chu vi = 241.420, dien tich = 3513.335
+HCN(62.560000, 88.310000): chu vi = 301.740, dien tich = 5524.674
+HV(canh = 33.110000): chu vi = 132.440, dien tich = 1096.272
+Case #93:
+HCN(85.330000, 95.820000): chu vi = 362.300, dien tich = 8176.321
+HCN(31.440000, 41.170000): chu vi = 145.220, dien tich = 1294.385
+HCN(31.440000, 41.170000): chu vi = 145.220, dien tich = 1294.385
+HCN(70.980000, 38.900000): chu vi = 219.760, dien tich = 2761.122
+HV(canh = 41.790000): chu vi = 167.160, dien tich = 1746.404
+HV(canh = 7.640000): chu vi = 30.560, dien tich = 58.370
+Case #94:
+HCN(4.180000, 79.690000): chu vi = 167.740, dien tich = 333.104
+HCN(65.790000, 70.950000): chu vi = 273.480, dien tich = 4667.801
+HCN(16.540000, 64.250000): chu vi = 161.580, dien tich = 1062.695
+HCN(55.400000, 95.940000): chu vi = 302.680, dien tich = 5315.076
+HV(canh = 47.340000): chu vi = 189.360, dien tich = 2241.076
+Case #95:
+HCN(74.060000, 25.060000): chu vi = 198.240, dien tich = 1855.944
+HCN(32.870000, 32.180000): chu vi = 130.100, dien tich = 1057.757
+HV(canh = 51.760000): chu vi = 207.040, dien tich = 2679.098
+HV(canh = 51.760000): chu vi = 207.040, dien tich = 2679.098
+Case #96:
+HCN(48.590000, 2.220000): chu vi = 101.620, dien tich = 107.870
+HCN(4.070000, 40.770000): chu vi = 89.680, dien tich = 165.934
+HCN(4.070000, 40.770000): chu vi = 89.680, dien tich = 165.934
+HCN(4.070000, 40.770000): chu vi = 89.680, dien tich = 165.934
+HV(canh = 67.100000): chu vi = 268.400, dien tich = 4502.410
+HV(canh = 5.260000): chu vi = 21.040, dien tich = 27.668
+Case #97:
+HCN(12.080000, 77.760000): chu vi = 179.680, dien tich = 939.341
+HCN(12.080000, 77.760000): chu vi = 179.680, dien tich = 939.341
+HCN(33.070000, 15.290000): chu vi = 96.720, dien tich = 505.640
+HV(canh = 71.340000): chu vi = 285.360, dien tich = 5089.396
+HV(canh = 71.340000): chu vi = 285.360, dien tich = 5089.396
+Case #98:
+HCN(97.960000, 9.380000): chu vi = 214.680, dien tich = 918.865
+HV(canh = 15.330000): chu vi = 61.320, dien tich = 235.009
+HV(canh = 37.060000): chu vi = 148.240, dien tich = 1373.444
+HV(canh = 15.330000): chu vi = 61.320, dien tich = 235.009
+Case #99:
+HCN(29.780000, 46.620000): chu vi = 152.800, dien tich = 1388.344
+HCN(29.780000, 46.620000): chu vi = 152.800, dien tich = 1388.344
+HCN(29.780000, 46.620000): chu vi = 152.800, dien tich = 1388.344
+HV(canh = 49.750000): chu vi = 199.000, dien tich = 2475.063
+HV(canh = 49.750000): chu vi = 199.000, dien tich = 2475.063
+Case #100:
+HCN(28.270000, 25.170000): chu vi = 106.880, dien tich = 711.556
+HCN(28.270000, 25.170000): chu vi = 106.880, dien tich = 711.556
+HCN(28.270000, 25.170000): chu vi = 106.880, dien tich = 711.556
+HCN(95.130000, 20.870000): chu vi = 232.000, dien tich = 1985.363
+HV(canh = 97.300000): chu vi = 389.200, dien tich = 9467.290
+HV(canh = 13.310000): chu vi = 53.240, dien tich = 177.156
+HV(canh = 97.300000): chu vi = 389.200, dien tich = 9467.290
